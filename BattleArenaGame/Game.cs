@@ -233,7 +233,7 @@ namespace BattleArenaGame
                     return value.Trim();
                 }
 
-                Console.WriteLine("The value cannot be empty. Please try again.");
+                Console.WriteLine("The value cannot be nothing... cmon, Please try again.");
             }
         }
     }
